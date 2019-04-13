@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeCoverageDemo.Web", "CodeCoverageDemo.Web\CodeCoverageDemo.Web.csproj", "{438A0180-E944-48F8-BA74-D9CB516B4D1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeCoverageDemo.MSTest.Tests", "CodeCoverageDemo.MSTest.Tests\CodeCoverageDemo.MSTest.Tests.csproj", "{363DC381-2CB8-4DBD-B390-3ACF46018C16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{438A0180-E944-48F8-BA74-D9CB516B4D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438A0180-E944-48F8-BA74-D9CB516B4D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438A0180-E944-48F8-BA74-D9CB516B4D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438A0180-E944-48F8-BA74-D9CB516B4D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{363DC381-2CB8-4DBD-B390-3ACF46018C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363DC381-2CB8-4DBD-B390-3ACF46018C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363DC381-2CB8-4DBD-B390-3ACF46018C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363DC381-2CB8-4DBD-B390-3ACF46018C16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C1CFF54-6F8C-43B1-AEFC-54FBAD30A529}
+	EndGlobalSection
+EndGlobal
