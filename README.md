@@ -1,5 +1,5 @@
 # Code Coverage Demo
-This repo holds the code sample for my [blog post](https://abelsquidhead.com/index.php/2019/04/13/getting-code-coverage-info-for-a-net-core-app-in-azure-pipelines/) where I used to demonstrate how to collect code coverage info for a .net core app in Azure Pipelines. 
+This repo holds the code sample for my [blog post](https://abelsquidhead.com/index.php/2019/04/13/getting-code-coverage-info-for-a-net-core-app-in-azure-pipelines/) where I demonstrate how to collect code coverage info for a .net core app in Azure Pipelines. 
 
 Included are
 * asp.net core web app - CodeCoverageDemo.Web
