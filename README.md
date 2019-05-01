@@ -16,6 +16,4 @@ The azure-pipelines.yml defines a build definition for Azure Pipelines that does
 * bundle everything needed as a build artifact, ready for a release pileine
 * publish build artifacts back to Azure Pipelines
 
-added something
-
 
