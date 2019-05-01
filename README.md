@@ -1,3 +1,4 @@
+[![Board Status](https://azuredevopsdemo-a.visualstudio.com/d1da05c8-b9fd-47d4-9159-5cc516bdf57a/06a84104-2da7-499e-bbe3-d72820b09039/_apis/work/boardbadge/16fb3367-d7e3-497c-9d0d-2afefaaadd7e)](https://azuredevopsdemo-a.visualstudio.com/d1da05c8-b9fd-47d4-9159-5cc516bdf57a/_boards/board/t/06a84104-2da7-499e-bbe3-d72820b09039/Microsoft.RequirementCategory)
 # Code Coverage Demo
 This repo holds the code sample for my [blog post](https://abelsquidhead.com/index.php/2019/04/13/getting-code-coverage-info-for-a-net-core-app-in-azure-pipelines/) where I demonstrate how to collect code coverage info for a .net core app in Azure Pipelines. 
 
